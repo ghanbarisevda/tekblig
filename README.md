@@ -1,1 +1,1 @@
-# tekblig
+# techblog
